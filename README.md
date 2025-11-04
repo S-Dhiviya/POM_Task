@@ -33,10 +33,13 @@ This project automates the testing of the World Population Count (https://www.th
 **Test Suite :**
 Test Case: 
     This test extracts the live population count from a dynamic web page where the number changes every second.
+	
 **Test Steps:**
   * Navigate to the live population statistics website.
   * Continuously fetch and display the current population count in real time.
   * Update the displayed count dynamically until the user interrupts the process.
+
+	
 **Expected Behavior:**
   * The script continuously prints the updated live population count.
   * When the user presses Ctrl + C, the process stops gracefully, and the final count is displayed (if applicable).
