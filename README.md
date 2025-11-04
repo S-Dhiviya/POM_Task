@@ -1,6 +1,6 @@
-                          **Live Population Count Extraction**
+                                                 **Live Population Count Extraction using POM**
 
-This project automates the testing of the World Population Count (https://www.theworldcounts.com/challenges/planet-earth/state-of-the-planet/world-population-clock-live) by simulating real user actions and validating critical UI functionalities. Demonstrates handling of dynamic web elements and real-time data extraction using Selenium.Test script is written using Selenium with Python and Pytest along with the Page Object Model framework(POM)and also follows OOPS principles.Useful for testing scripts that interact with continuously updating content.
+This project automates the testing of the **World Population Count** web application (https://www.theworldcounts.com/challenges/planet-earth/state-of-the-planet/world-population-clock-live) by simulating real user interactions and validating key UI functionalities.It demonstrates the ability to handle dynamic web elements and perform real-time data extraction using Selenium.The test scripts are developed using Python, Selenium, and Pytest, following the Page Object Model (POM) framework and Object-Oriented Programming (OOP) principles.This framework is particularly useful for testing applications that display **continuously updating content**, such as live statistics or real-time dashboards.
 
 **Project Architecture :**
 
